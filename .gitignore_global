@@ -1,0 +1,17 @@
+# 환경설정 파일
+.env
+
+# 빌드 파일
+/build/
+/bin/
+
+# OS 및 IDE 관련 파일
+*.log
+*.DS_Store
+*.iml
+
+# 사용자 설정 파일 (예: Android Studio, Xcode 등)
+.idea/
+*.gradle
+local.properties
+

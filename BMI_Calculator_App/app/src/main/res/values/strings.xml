@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI_Calculator_App</string>
+    <string name="height">키(cm)</string>
+    <string name="weight">체중(kg)</string>
+    <string name="hintHeight">키를 입력하세요</string>
+    <string name="hintWeight">체중을 입력하세요</string>
+    <string name="hintOk">확인</string>
+    <string name="bmi">BMI:</string>
+    <string name="resultStart">결과는</string>
+    <string name="resultEnd">입니다.</string>
+</resources>
