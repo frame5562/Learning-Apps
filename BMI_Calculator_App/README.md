@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="../images/project_title_01.jpg" alt="타이틀 배너">
+</p>
+
+
 # 프로젝트 개요
 이 앱은 사용자의 신장과 체중을 입력받아 BMI(체질량지수)를 계산하는 간단한 앱입니다. 주로 Android 개발의 기본 UI 구성 요소와 기본 입출력 기능을 학습하기 위해 개발되었습니다.
 
