@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../images/project_title_02.jpg" alt="타이틀 배너">
+  <img src="../images/project_title_02.png" alt="타이틀 배너">
 </p>
 
 
