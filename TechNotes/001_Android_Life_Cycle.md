@@ -118,3 +118,7 @@ onAttach() -> onCreate() -> onCreateView() -> onActivityCreated() -> onStart() -
 [Android 공식 문서 - Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle?hl=ko)
 
 [Android 공식 문서 - Fragment Lifecycle](https://developer.android.com/guide/fragments/lifecycle?hl=ko)
+
+---
+
+<sub>작성일: 2024년 10월 21일</sub>
